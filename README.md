@@ -2,4 +2,4 @@
 
 ## Assignment objectives
 
-1. Repository Setup
+1. Repository Setup.
